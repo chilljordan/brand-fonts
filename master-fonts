@@ -1,0 +1,134 @@
+/* brand-fonts.css - Load all your custom fonts for BeeFree */
+
+/* ----------------------------- */
+/* Inter Variable */
+@font-face {
+  font-family: 'Inter';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Inter-VariableFont_opsz.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+/* Inter Italic (optional) */
+@font-face {
+  font-family: 'Inter';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Inter-VariableFont_opsz-italic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* Koulen */
+@font-face {
+  font-family: 'Koulen';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Koulen-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* Monument Extended */
+@font-face {
+  font-family: 'Monument Extended';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/MonumentExtended-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monument Extended';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/MonumentExtended-Ultrabold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* Noir Pro */
+@font-face {
+  font-family: 'Noir Pro';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Noir_regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noir Pro';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Noir_medium.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* Outfit */
+@font-face {
+  font-family: 'Outfit';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Outfit-VariableFont_wght.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* PP Neue Montreal */
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/PPNeueMontreal-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/PPNeueMontreal-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/PPNeueMontreal-Book.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/PPNeueMontreal-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/PPNeueMontreal-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ----------------------------- */
+/* Recoleta */
+/* Already covered in recoleta.css, so you can optionally link it separately */
+
+/* ----------------------------- */
+/* Satoshi */
+@font-face {
+  font-family: 'Satoshi';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Satoshi-Variable.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Satoshi';
+  src: url('https://cdn.jsdelivr.net/gh/chilljordan/brand-fonts@main/Satoshi-VariableItalic.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
