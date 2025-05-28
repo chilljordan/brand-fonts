@@ -3,45 +3,40 @@
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/chilljordan/dollhaus-fonts/Recoleta-Thin.woff2') format('woff2');
+  src: url('Recoleta-Thin.woff2') format('woff2');
 }
-
 @font-face {
   font-family: 'Recoleta';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/chilljordan/dollhaus-fonts/Recoleta-Light.woff2') format('woff2');
+  src: url('Recoleta-Light.woff2') format('woff2');
 }
-
 @font-face {
   font-family: 'Recoleta';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/chilljordan/dollhaus-fonts/Recoleta-Regular.woff2') format('woff2');
+  src: url('Recoleta-Regular.woff2') format('woff2');
 }
-
 @font-face {
   font-family: 'Recoleta';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/chilljordan/dollhaus-fonts/Recoleta-Medium.woff2') format('woff2');
+  src: url('Recoleta-Medium.woff2') format('woff2');
 }
-
 @font-face {
   font-family: 'Recoleta';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/chilljordan/dollhaus-fonts/Recoleta-SemiBold.woff2') format('woff2');
+  src: url('Recoleta-SemiBold.woff2') format('woff2');
 }
-
 @font-face {
   font-family: 'Recoleta';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/chilljordan/dollhaus-fonts/Recoleta-Bold.woff2') format('woff2');
+  src: url('Recoleta-Bold.woff2') format('woff2');
 }
